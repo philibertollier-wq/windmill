@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.777.1](https://github.com/windmill-labs/windmill/compare/v1.777.0...v1.777.1) (2026-08-03)
+
+
+### Bug Fixes
+
+* return result.json and stdout results from sandboxed containers ([#10460](https://github.com/windmill-labs/windmill/issues/10460)) ([d509551](https://github.com/windmill-labs/windmill/commit/d5095515ed007d4e7fbfc1a15582c550d3293ece))
+* revert vite to 8.0.13 to stop random 500 error pages ([#10468](https://github.com/windmill-labs/windmill/issues/10468)) ([d7ef71f](https://github.com/windmill-labs/windmill/commit/d7ef71f0b70ab366174ed0058e97419e66ccfc73))
+
 ## [1.777.0](https://github.com/windmill-labs/windmill/compare/v1.776.0...v1.777.0) (2026-08-03)
 
 
